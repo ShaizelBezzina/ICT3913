@@ -1,0 +1,73 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Ground
+  - Puzzle
+  - NPC
+  - ConversationTrigger
+  - Collectable Item
+  - OnClick
+  - Sign
+  - SignInPlace
+  - Glow
+  - Wrong
+  - Undefined
+  - Correct
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - Ground
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Background
+    uniqueID: 3396836925
+    locked: 0
+  - name: Ground
+    uniqueID: 2862043291
+    locked: 0
+  - name: For plants
+    uniqueID: 3447169319
+    locked: 0
+  - name: Grass
+    uniqueID: 1378517855
+    locked: 0
+  - name: New Layer 3
+    uniqueID: 451517113
+    locked: 0
+  - name: Player
+    uniqueID: 2023788983
+    locked: 0

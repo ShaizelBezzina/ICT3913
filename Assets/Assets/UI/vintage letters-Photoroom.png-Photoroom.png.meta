@@ -1,0 +1,1152 @@
+fileFormatVersion: 2
+guid: 9f2362aac22cc3c409a856203ddfeb04
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: vintage letters-Photoroom.png-Photoroom_0
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 623
+        width: 160
+        height: 223
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 59694218ced08094a96c87090174458e
+      internalID: 35662711
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vintage letters-Photoroom.png-Photoroom_1
+      rect:
+        serializedVersion: 2
+        x: 281
+        y: 623
+        width: 64
+        height: 222
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 108a7da1f13c9d8428994f1647221b60
+      internalID: -1798298948
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vintage letters-Photoroom.png-Photoroom_2
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 622
+        width: 181
+        height: 224
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e614e8e965b4f0542a05c7d888672584
+      internalID: -1225699726
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vintage letters-Photoroom.png-Photoroom_3
+      rect:
+        serializedVersion: 2
+        x: 532
+        y: 623
+        width: 143
+        height: 222
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6eff019497e7354b8d2a229bcb7a859
+      internalID: -2017993706
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vintage letters-Photoroom.png-Photoroom_4
+      rect:
+        serializedVersion: 2
+        x: 653
+        y: 623
+        width: 169
+        height: 222
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67be2436735eb4f4292669706b2c517c
+      internalID: 73568205
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vintage letters-Photoroom.png-Photoroom_5
+      rect:
+        serializedVersion: 2
+        x: 814
+        y: 619
+        width: 165
+        height: 232
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f96d5f750843bc54493113b47ab23b9b
+      internalID: -1111433824
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vintage letters-Photoroom.png-Photoroom_6
+      rect:
+        serializedVersion: 2
+        x: 988
+        y: 623
+        width: 142
+        height: 222
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2da213e7472f0124e9d726e744f63841
+      internalID: -172606020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vintage letters-Photoroom.png-Photoroom_7
+      rect:
+        serializedVersion: 2
+        x: 399
+        y: 552
+        width: 157
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff5809a7892cc5a42bf20dc766e94641
+      internalID: 437248479
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vintage letters-Photoroom.png-Photoroom_8
+      rect:
+        serializedVersion: 2
+        x: 570
+        y: 543
+        width: 143
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d347495c2d9ea743b4eb2cf21fba21e
+      internalID: -2050497639
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vintage letters-Photoroom.png-Photoroom_9
+      rect:
+        serializedVersion: 2
+        x: 728
+        y: 544
+        width: 173
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8812ab8e8b5f368458301f6335141ed0
+      internalID: 493093186
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vintage letters-Photoroom.png-Photoroom_10
+      rect:
+        serializedVersion: 2
+        x: 118
+        y: 418
+        width: 57
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95c593379b0939f49997b561f3a223a5
+      internalID: -567819602
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vintage letters-Photoroom.png-Photoroom_11
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 418
+        width: 66
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b0d921691e5ca3e4bb8fe281550bf015
+      internalID: -993781732
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vintage letters-Photoroom.png-Photoroom_12
+      rect:
+        serializedVersion: 2
+        x: 293
+        y: 417
+        width: 53
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ebf891a568b916645a71b5508cb72570
+      internalID: 567900169
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vintage letters-Photoroom.png-Photoroom_13
+      rect:
+        serializedVersion: 2
+        x: 378
+        y: 417
+        width: 59
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38d1c7d49edb3e5449bcf12a2aa8d11f
+      internalID: 1731906520
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vintage letters-Photoroom.png-Photoroom_14
+      rect:
+        serializedVersion: 2
+        x: 469
+        y: 418
+        width: 47
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 133db8fe27217d246af2e97011996ac7
+      internalID: 612118448
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vintage letters-Photoroom.png-Photoroom_15
+      rect:
+        serializedVersion: 2
+        x: 547
+        y: 418
+        width: 49
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67dc35d1bbc04164bbd69107f7297f0d
+      internalID: 733475085
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vintage letters-Photoroom.png-Photoroom_16
+      rect:
+        serializedVersion: 2
+        x: 625
+        y: 417
+        width: 54
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c97ac15fcd4535f479beec1349992c12
+      internalID: 1785660079
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vintage letters-Photoroom.png-Photoroom_17
+      rect:
+        serializedVersion: 2
+        x: 708
+        y: 418
+        width: 66
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5249a02149c95648ad291b33516ed0c
+      internalID: 140684736
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vintage letters-Photoroom.png-Photoroom_18
+      rect:
+        serializedVersion: 2
+        x: 805
+        y: 418
+        width: 22
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a479dc99d6650643bf66e4ef6782f9b
+      internalID: 564411084
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vintage letters-Photoroom.png-Photoroom_19
+      rect:
+        serializedVersion: 2
+        x: 856
+        y: 410
+        width: 44
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e7868b4cb87a164cae74c730b74ecae
+      internalID: 486462270
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vintage letters-Photoroom.png-Photoroom_20
+      rect:
+        serializedVersion: 2
+        x: 930
+        y: 418
+        width: 55
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09e17e90d8f4eb440bac95f04ee57242
+      internalID: 1866483985
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vintage letters-Photoroom.png-Photoroom_21
+      rect:
+        serializedVersion: 2
+        x: 1014
+        y: 418
+        width: 48
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc30afd66e5fb554c9b719bed4df2e47
+      internalID: -1967515464
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vintage letters-Photoroom.png-Photoroom_22
+      rect:
+        serializedVersion: 2
+        x: 1084
+        y: 418
+        width: 75
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c212dc0912742714f90a13e3e71fbc03
+      internalID: 1990234448
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vintage letters-Photoroom.png-Photoroom_23
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 298
+        width: 61
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57fe80ed4d4a67e4eaab3c2d2037b855
+      internalID: -1213348735
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vintage letters-Photoroom.png-Photoroom_24
+      rect:
+        serializedVersion: 2
+        x: 179
+        y: 297
+        width: 60
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 94ea64887aceb9a4c8f1a9850900944c
+      internalID: -1757210050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vintage letters-Photoroom.png-Photoroom_25
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 299
+        width: 47
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 429452b51ce0ac648932e89bae3c52fc
+      internalID: -1287933665
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vintage letters-Photoroom.png-Photoroom_26
+      rect:
+        serializedVersion: 2
+        x: 347
+        y: 297
+        width: 72
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f1a2a782b0e7764b9529579a89491ae
+      internalID: 389998637
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vintage letters-Photoroom.png-Photoroom_27
+      rect:
+        serializedVersion: 2
+        x: 439
+        y: 299
+        width: 73
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d3cfa9cd2918014b9178cbe98af02fc
+      internalID: 283245129
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vintage letters-Photoroom.png-Photoroom_28
+      rect:
+        serializedVersion: 2
+        x: 541
+        y: 297
+        width: 53
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45778e528023a0f44b85ea74c8c2b8ce
+      internalID: -494240316
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vintage letters-Photoroom.png-Photoroom_29
+      rect:
+        serializedVersion: 2
+        x: 621
+        y: 298
+        width: 47
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a009788ae9e369a449b2ffbd2b501b75
+      internalID: 1523651114
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vintage letters-Photoroom.png-Photoroom_30
+      rect:
+        serializedVersion: 2
+        x: 696
+        y: 298
+        width: 60
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b5b5633f87496064c851d4ce3ddec3b5
+      internalID: 209560216
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vintage letters-Photoroom.png-Photoroom_31
+      rect:
+        serializedVersion: 2
+        x: 782
+        y: 299
+        width: 54
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a01152db423183469a0eff65bd3e5f2
+      internalID: 731298487
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vintage letters-Photoroom.png-Photoroom_32
+      rect:
+        serializedVersion: 2
+        x: 861
+        y: 298
+        width: 81
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a969bf6c64ceb10419a31cf6abce8d0c
+      internalID: 910982955
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vintage letters-Photoroom.png-Photoroom_33
+      rect:
+        serializedVersion: 2
+        x: 969
+        y: 298
+        width: 66
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 190568c387b8c7e4e8122ca795283627
+      internalID: 1867103610
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vintage letters-Photoroom.png-Photoroom_34
+      rect:
+        serializedVersion: 2
+        x: 1060
+        y: 299
+        width: 54
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b76d692744732804ab8418acfb180885
+      internalID: -2025972738
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vintage letters-Photoroom.png-Photoroom_35
+      rect:
+        serializedVersion: 2
+        x: 1141
+        y: 298
+        width: 49
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 134158db18928d74eb873dea183bfcfa
+      internalID: -1635473717
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vintage letters-Photoroom.png-Photoroom_36
+      rect:
+        serializedVersion: 2
+        x: 249
+        y: 179
+        width: 61
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7eb882662f09db34b8848a8610802587
+      internalID: -619202521
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vintage letters-Photoroom.png-Photoroom_37
+      rect:
+        serializedVersion: 2
+        x: 341
+        y: 178
+        width: 39
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7763716bf6d5824984b2f3517e969f5
+      internalID: 2002312317
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vintage letters-Photoroom.png-Photoroom_38
+      rect:
+        serializedVersion: 2
+        x: 410
+        y: 178
+        width: 61
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec8e2ad4e08efa646bcd3c0b91488965
+      internalID: -88236337
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vintage letters-Photoroom.png-Photoroom_39
+      rect:
+        serializedVersion: 2
+        x: 501
+        y: 178
+        width: 49
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 832f2f80fadb2af4fbc1e40ffbef6125
+      internalID: 1923639067
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vintage letters-Photoroom.png-Photoroom_40
+      rect:
+        serializedVersion: 2
+        x: 581
+        y: 179
+        width: 49
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f9f4d0a7860e2a340835fb68ac7de887
+      internalID: 1302051577
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vintage letters-Photoroom.png-Photoroom_41
+      rect:
+        serializedVersion: 2
+        x: 659
+        y: 176
+        width: 47
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf8d637cfabbc9f458ace23a6a4d115a
+      internalID: 1667057596
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vintage letters-Photoroom.png-Photoroom_42
+      rect:
+        serializedVersion: 2
+        x: 738
+        y: 178
+        width: 55
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e115a59d6d385364ebd93695af205ca3
+      internalID: 1416228908
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vintage letters-Photoroom.png-Photoroom_43
+      rect:
+        serializedVersion: 2
+        x: 824
+        y: 179
+        width: 48
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fbcd725aa0e8e5245afa12964efa3e7d
+      internalID: 473236772
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vintage letters-Photoroom.png-Photoroom_44
+      rect:
+        serializedVersion: 2
+        x: 899
+        y: 178
+        width: 43
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9dd44a95ef1b6b54b8eb886901c3d0c6
+      internalID: -1178979148
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vintage letters-Photoroom.png-Photoroom_45
+      rect:
+        serializedVersion: 2
+        x: 975
+        y: 178
+        width: 57
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82a742cee8c0c6140ba76e68b64b36cd
+      internalID: 251692045
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      vintage letters-Photoroom.png-Photoroom_0: 35662711
+      vintage letters-Photoroom.png-Photoroom_1: -1798298948
+      vintage letters-Photoroom.png-Photoroom_10: -567819602
+      vintage letters-Photoroom.png-Photoroom_11: -993781732
+      vintage letters-Photoroom.png-Photoroom_12: 567900169
+      vintage letters-Photoroom.png-Photoroom_13: 1731906520
+      vintage letters-Photoroom.png-Photoroom_14: 612118448
+      vintage letters-Photoroom.png-Photoroom_15: 733475085
+      vintage letters-Photoroom.png-Photoroom_16: 1785660079
+      vintage letters-Photoroom.png-Photoroom_17: 140684736
+      vintage letters-Photoroom.png-Photoroom_18: 564411084
+      vintage letters-Photoroom.png-Photoroom_19: 486462270
+      vintage letters-Photoroom.png-Photoroom_2: -1225699726
+      vintage letters-Photoroom.png-Photoroom_20: 1866483985
+      vintage letters-Photoroom.png-Photoroom_21: -1967515464
+      vintage letters-Photoroom.png-Photoroom_22: 1990234448
+      vintage letters-Photoroom.png-Photoroom_23: -1213348735
+      vintage letters-Photoroom.png-Photoroom_24: -1757210050
+      vintage letters-Photoroom.png-Photoroom_25: -1287933665
+      vintage letters-Photoroom.png-Photoroom_26: 389998637
+      vintage letters-Photoroom.png-Photoroom_27: 283245129
+      vintage letters-Photoroom.png-Photoroom_28: -494240316
+      vintage letters-Photoroom.png-Photoroom_29: 1523651114
+      vintage letters-Photoroom.png-Photoroom_3: -2017993706
+      vintage letters-Photoroom.png-Photoroom_30: 209560216
+      vintage letters-Photoroom.png-Photoroom_31: 731298487
+      vintage letters-Photoroom.png-Photoroom_32: 910982955
+      vintage letters-Photoroom.png-Photoroom_33: 1867103610
+      vintage letters-Photoroom.png-Photoroom_34: -2025972738
+      vintage letters-Photoroom.png-Photoroom_35: -1635473717
+      vintage letters-Photoroom.png-Photoroom_36: -619202521
+      vintage letters-Photoroom.png-Photoroom_37: 2002312317
+      vintage letters-Photoroom.png-Photoroom_38: -88236337
+      vintage letters-Photoroom.png-Photoroom_39: 1923639067
+      vintage letters-Photoroom.png-Photoroom_4: 73568205
+      vintage letters-Photoroom.png-Photoroom_40: 1302051577
+      vintage letters-Photoroom.png-Photoroom_41: 1667057596
+      vintage letters-Photoroom.png-Photoroom_42: 1416228908
+      vintage letters-Photoroom.png-Photoroom_43: 473236772
+      vintage letters-Photoroom.png-Photoroom_44: -1178979148
+      vintage letters-Photoroom.png-Photoroom_45: 251692045
+      vintage letters-Photoroom.png-Photoroom_5: -1111433824
+      vintage letters-Photoroom.png-Photoroom_6: -172606020
+      vintage letters-Photoroom.png-Photoroom_7: 437248479
+      vintage letters-Photoroom.png-Photoroom_8: -2050497639
+      vintage letters-Photoroom.png-Photoroom_9: 493093186
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

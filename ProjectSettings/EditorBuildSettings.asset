@@ -1,0 +1,170 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/Other Scenes/MainMenu.unity
+    guid: 0ef4f22439e359d4f95cc166ddbbad4c
+  - enabled: 1
+    path: Assets/Scenes/Other Scenes/FirstScene.unity
+    guid: 2cda990e2423bbf4892e6590ba056729
+  - enabled: 1
+    path: Assets/Scenes/Other Scenes/Library.unity
+    guid: c1390b50c3f2fbb419ca176f5944c947
+  - enabled: 1
+    path: Assets/Scenes/Herbal Section/Herbal1.unity
+    guid: 07901428637d0c946a9fcf4a570a48b8
+  - enabled: 1
+    path: Assets/Scenes/Herbal Section/1HerbalBigPuzzle.unity
+    guid: 29810befbbcab774495565bc66dddb2b
+  - enabled: 1
+    path: Assets/Scenes/Herbal Section/HerbalChoose.unity
+    guid: c02baf53082dcab46ac0462a8936be7c
+  - enabled: 0
+    path: Assets/Scenes/Herbal Section/2HerbalBigPuzzle.unity
+    guid: c1d4af9306ef5974f8401c8f689b034d
+  - enabled: 1
+    path: Assets/Scenes/InfoPages/HerbalInfoPage.unity
+    guid: 3ac09e4fd6690f7429e67c6c0ad13fb6
+  - enabled: 1
+    path: Assets/Scenes/Herbal Section/HerbalQuiz.unity
+    guid: 301c044a7242ea443a4b5281f70c4fce
+  - enabled: 1
+    path: Assets/Scenes/Herbal Section/HerbalQuiz2.unity
+    guid: 62e51c48342548a47b3a25dbb3b486ac
+  - enabled: 1
+    path: Assets/Scenes/Astronomy&Cosmology Section/Astro&Cosmo.unity
+    guid: 0e98cd33bb9a0214390c85d9249c7d14
+  - enabled: 1
+    path: Assets/Scenes/Astronomy&Cosmology Section/CosmoPuzzle.unity
+    guid: 3e2fbd43c0fdc434ba08d32b8e2148d3
+  - enabled: 1
+    path: Assets/Scenes/Astronomy&Cosmology Section/CosmoChoose.unity
+    guid: 1f35c5af6f1620648bbe9120de5f55e3
+  - enabled: 1
+    path: Assets/Scenes/InfoPages/CosmoInfoPage.unity
+    guid: ff8af8172d27c1e46977b951c5f8964a
+  - enabled: 1
+    path: Assets/Scenes/Zodiac Section/ZodiacStart.unity
+    guid: 866708317ba531e4abd287f712bd70b2
+  - enabled: 1
+    path: Assets/Scenes/InfoPages/ZodiacInfoPage.unity
+    guid: 462faa6a81120ff4382374f858cd04c7
+  - enabled: 1
+    path: Assets/Scenes/InfoPages/AstroInfoPage.unity
+    guid: c0b0bc3aac4410f4d803ac506e7657e4
+  - enabled: 0
+    path: Assets/Scenes/Astronomy&Cosmology Section/AstroPuzzle.unity
+    guid: c6a96435dc3f5a5449daeeb5b7fe4e45
+  - enabled: 1
+    path: Assets/Scenes/Zodiac Section/ZodiacSignsPuzzle.unity
+    guid: a00b67a57ff37494abd3986ff14df5bb
+  - enabled: 1
+    path: Assets/Scenes/Zodiac Section/ZodiacPuzzle2.unity
+    guid: 55042247dc03ce34b8c7e937297e5e5a
+  - enabled: 1
+    path: Assets/Scenes/Zodiac Section/Aquarius.unity
+    guid: 125f820ab47fd544b84e450cee0bb1cb
+  - enabled: 1
+    path: Assets/Scenes/Zodiac Section/Capricorn.unity
+    guid: 2ea7dae3dc274a34097847f0eb1df0e0
+  - enabled: 1
+    path: Assets/Scenes/Zodiac Section/ZodiacQuiz1.unity
+    guid: b87c3611fd1acf94898eec018f67190b
+  - enabled: 1
+    path: Assets/Scenes/Astronomy&Cosmology Section/Astro&CosmoQuiz1.unity
+    guid: bb9a873f342e12d44acfec2d43257fe5
+  - enabled: 1
+    path: Assets/Scenes/Astronomy&Cosmology Section/Astro&CosmoQuiz2.unity
+    guid: c0b73057656c7974198fdbd302eec344
+  - enabled: 1
+    path: Assets/Scenes/Astronomy&Cosmology Section/Astro&CosmoQuiz3.unity
+    guid: d306da9ead457bc4e82a855e1d8905f6
+  - enabled: 1
+    path: Assets/Scenes/Biological Section/Biological1.unity
+    guid: 5eb3a00f0fc8f6348b9b10e407475717
+  - enabled: 1
+    path: Assets/Scenes/Biological Section/BioMachinePuzzle.unity
+    guid: 51767b7506cc3a04a9ab832daca77c18
+  - enabled: 1
+    path: Assets/Scenes/Biological Section/BioMachinePuzzle2.unity
+    guid: 882c99f3bbd996046a0349033fd0df40
+  - enabled: 1
+    path: Assets/Scenes/Biological Section/BiologicalPuzzleBig.unity
+    guid: 272287cc4ec9f9e4bae535f0b16e688c
+  - enabled: 1
+    path: Assets/Scenes/InfoPages/BiologicalInfoPage.unity
+    guid: caf3f4ceeb3182d44a642c69628868e2
+  - enabled: 1
+    path: Assets/Scenes/Biological Section/BioQuiz1.unity
+    guid: 5fbc611969a95934c8537575bedef726
+  - enabled: 1
+    path: Assets/Scenes/Pharmaceutical Section/PharmaFirstScene.unity
+    guid: 8cd9cc89a3f787945b9ac3787194a280
+  - enabled: 0
+    path: Assets/Scenes/Pharmaceutical Section/PharmaBigPuzzle.unity
+    guid: 9816ea48d93defe41b348812a189c7f3
+  - enabled: 1
+    path: Assets/Scenes/Pharmaceutical Section/PharmaPuzzle1.unity
+    guid: 63abe91e14b71fd4f9da5ea33cbf9970
+  - enabled: 1
+    path: Assets/Scenes/Pharmaceutical Section/PharmaPuzzle2.unity
+    guid: d6f98f7156b08014597c283e7f209afe
+  - enabled: 1
+    path: Assets/Scenes/InfoPages/PharmaceuticalInfoPage.unity
+    guid: eaf1150e9c83da146b747d73c5fea610
+  - enabled: 1
+    path: Assets/Scenes/Pharmaceutical Section/PharmaceuticalQuiz2.unity
+    guid: 026a2a20c120ea54cafd88aa87606867
+  - enabled: 1
+    path: Assets/Scenes/Pharmaceutical Section/PharmaceuticalQuiz1.unity
+    guid: 876c41ed654a04e4c802aaaf59ce0a8b
+  - enabled: 1
+    path: Assets/Scenes/Recipes Section/RecipeKitchen.unity
+    guid: 8101e38c31fd38847aee353cefa3547a
+  - enabled: 0
+    path: Assets/Scenes/Recipes Section/RecipeBigPuzzle.unity
+    guid: f41918113ffd4d04e9bd589d2011a0db
+  - enabled: 1
+    path: Assets/Scenes/InfoPages/RecipeInfoPage.unity
+    guid: 7bb4c511ab280d744a730361c7e23bc8
+  - enabled: 1
+    path: Assets/Scenes/Recipes Section/StarsPuzzle.unity
+    guid: 0cfbaf2de76a884448027472049e9cc3
+  - enabled: 1
+    path: Assets/Scenes/Recipes Section/RecipeQuiz.unity
+    guid: 699b3800c1bea5b4187828dea4f9bda8
+  - enabled: 1
+    path: Assets/Scenes/Other Scenes/BeforeQuizLibrary.unity
+    guid: d7d90c8ef4f93a146be96e93f7f9abf0
+  - enabled: 1
+    path: Assets/Scenes/Other Scenes/AllQuiz1.unity
+    guid: 6ca6dd213ba7d6247878684b08473ff0
+  - enabled: 1
+    path: Assets/Scenes/Other Scenes/AllQuiz2.unity
+    guid: 1d7395b94ed88ad4b8774176c5c8ea82
+  - enabled: 1
+    path: Assets/Scenes/Other Scenes/AllQuiz3.unity
+    guid: aeb825e808e18d94994ead3d0e6a79df
+  - enabled: 1
+    path: Assets/Scenes/Other Scenes/AllQuiz4.unity
+    guid: 59d3b2e00b66e4248bb570243ae06706
+  - enabled: 1
+    path: Assets/Scenes/Other Scenes/AllQuiz5.unity
+    guid: 9a5579528aa150645ba9f8e589515622
+  - enabled: 1
+    path: Assets/Scenes/Other Scenes/ChooseQuiz.unity
+    guid: d0b46ce910bb1b94785442296bbc02c1
+  - enabled: 0
+    path: Assets/Scenes/Other Scenes/AllQuiz6.unity
+    guid: 9c06686e76949324ea6681a29af533d3
+  - enabled: 1
+    path: Assets/Scenes/Other Scenes/Bedroom.unity
+    guid: a72857c3b5296504a843ea6b549c41c6
+  - enabled: 1
+    path: Assets/Scenes/Other Scenes/LastScene.unity
+    guid: 30f837a76778e1a42a0510d2bef2949b
+  m_configObjects: {}
